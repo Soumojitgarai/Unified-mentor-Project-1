@@ -1,6 +1,8 @@
 # Unified mentor 
 ## Internship: Full Stack Web Development
 ### Project 1: To-Do list
+![image](https://github.com/user-attachments/assets/2816f45f-313e-4880-81d0-98ba3ba26c99)
+
 #### Features
 
 - ✅ Add new tasks
